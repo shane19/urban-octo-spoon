@@ -2,4 +2,4 @@
 "change added in dazzling_feature branch"
 Blahhhhhhhhhhh
 
-changes made in master branch
+changes made on dazzling_feature - provoke conflict
